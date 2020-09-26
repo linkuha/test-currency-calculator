@@ -1,0 +1,23 @@
+# phpstorm project files
+.idea
+
+# Subversion
+.svn
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+coverage/
+vendor/
+
+*~
+*.stackdump
+/*.sh
+/*.log
+/*.zip
+/*.tar.gz
+/.well-known
+/*.phar

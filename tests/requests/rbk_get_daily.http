@@ -1,0 +1,8 @@
+# RBK
+
+GET https://cash.rbc.ru/cash/json/converter_currency_rate/?currency_from=USD&currency_to=RUR&source=cbrf&sum=1&date=2020-09-19
+Content-Type: application/x-www-form-urlencoded
+
+###
+
+

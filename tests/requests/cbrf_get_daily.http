@@ -1,0 +1,8 @@
+# CBRF
+
+GET http://www.cbr.ru/scripts/XML_daily.asp?date_req=19/09/2020
+Content-Type: application/x-www-form-urlencoded
+
+###
+
+

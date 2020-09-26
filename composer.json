@@ -1,0 +1,37 @@
+{
+  "name": "linkuha/test-currency-calculator",
+  "type": "library",
+  "description" : "Currency calculator",
+  "keywords": [
+    "currency",
+    "cbrf",
+    "rbk"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/linkuha/test-currency-calculator",
+  "authors": [
+    {
+      "name" : "Pudich Alexandr",
+      "email" : "linkuha@gmail.com",
+      "homepage" : "https://pudich.ru"
+    }
+  ],
+  "require": {
+    "php" : ">=7.4.0"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^9.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "CurrencyCalculator\\": "src"
+    }
+  },
+  "autoload-dev": {
+  },
+  "scripts": {
+  },
+  "config": {
+    "sort-packages": true
+  }
+}
